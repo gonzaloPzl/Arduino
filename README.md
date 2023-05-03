@@ -16,7 +16,7 @@ Para utilizar el entorno de desarrollo de la aplicación se requiere de los sigu
 
 - Windows, linux o macOS
 - Arduino compatible con el IDE
-- Placa bluetooth
+- Placa Bluetooth:X M-15B SPP
 - [Arduino IDE](https://www.arduino.cc/en/software)
 
 Se debe ejecutar 
