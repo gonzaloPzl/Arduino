@@ -1,0 +1,28 @@
+int motorPin1 = 3; // Pin de entrada 1 del controlador de puente H
+int motorPin2 = 5; // Pin de entrada 2 del controlador de puente H
+int motorSpeed = 255; // Velocidad del motor (0 a 255)
+int directionPin1 = 7; // Pin de entrada 3 del controlador de puente H
+int directionPin2 = 6; // Pin de entrada 4 del controlador de puente H
+
+void setup() {
+  pinMode(motorPin1, OUTPUT);
+  pinMode(motorPin2, OUTPUT);
+  pinMode(directionPin1, OUTPUT);
+  pinMode(directionPin2, OUTPUT);
+}
+
+void loop() {
+  // Gira hacia la derecha durante 2 segundos
+  digitalWrite(directionPin1, HIGH);
+  digitalWrite(directionPin2, LOW);
+  analogWrite(motorPin1, motorSpeed);
+  analogWrite(motorPin2, 0);
+  delay(2000);
+  
+  // Gira hacia la izquierda durante 2 segundos
+  digitalWrite(directionPin1, LOW);
+  digitalWrite(directionPin2, HIGH);
+  analogWrite(motorPin1, 0);
+  analogWrite(motorPin2, motorSpeed);
+  delay(2000);
+}
