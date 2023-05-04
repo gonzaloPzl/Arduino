@@ -1,0 +1,40 @@
+// Incluimos la librería de la placa Arduino.
+#include <Arduino.h>
+
+// Definimos los pines de entrada del controlador de puente H.
+const int ENA = 3;  // Pin que controla la velocidad del motor.
+const int IN1 = 4;  // Pin que controla la dirección del motor.
+const int IN2 = 5;  // Pin que controla la dirección del motor.
+
+void setup() {
+  // Configuramos los pines del controlador de puente H como salidas.
+  pinMode(ENA, OUTPUT);
+  pinMode(IN1, OUTPUT);
+  pinMode(IN2, OUTPUT);
+}
+
+void loop() {
+  // Hacemos que el motor gire hacia adelante a velocidad máxima durante 2 segundos.
+  digitalWrite(IN1, HIGH);
+  digitalWrite(IN2, LOW);
+  analogWrite(ENA, 255);
+  delay(2000);
+
+  // Hacemos que el motor se detenga durante 1 segundo.
+  digitalWrite(IN1, LOW);
+  digitalWrite(IN2, LOW);
+  analogWrite(ENA, 0);
+  delay(1000);
+
+  // Hacemos que el motor gire hacia atrás a velocidad máxima durante 2 segundos.
+  digitalWrite(IN1, LOW);
+  digitalWrite(IN2, HIGH);
+  analogWrite(ENA, 255);
+  delay(2000);
+
+  // Hacemos que el motor se detenga durante 1 segundo.
+  digitalWrite(IN1, LOW);
+  digitalWrite(IN2, LOW);
+  analogWrite(ENA, 0);
+  delay(1000);
+}
