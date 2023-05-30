@@ -6,7 +6,7 @@
 ## Videos del funcionamiento
 
 #### Prueba de energia
-[![Funcionamiento general](https://i9.ytimg.com/vi_webp/s7uqO6EEBAY/mq2.webp?sqp=CMDg2KMG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC8AKKAgwIABABGGUgZShlMA8%3D&rs=AOn4CLBgvg7F-ql9e2XJHFBT4np2MJNooA&retry=3)](https://www.youtube.com/shorts/lUuYXvtRW9M)
+[![Funcionamiento general](https://i9.ytimg.com/vi_webp/s7uqO6EEBAY/mq2.webp?sqp=CMDg2KMG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC8AKKAgwIABABGGUgZShlMA8%3D&rs=AOn4CLBgvg7F-ql9e2XJHFBT4np2MJNooA&retry=3)](https://youtu.be/s7uqO6EEBAY )
 
 #### Prueba de energia
 [![Prueba de energia](https://i9.ytimg.com/vi_webp/lUuYXvtRW9M/mq2.webp?sqp=CMDg2KMG-oaymwEoCMACELQB8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYZSBLKD0wDw==&rs=AOn4CLC7gGx8If68-FQRKDPEvqcgy_VW8w)](https://www.youtube.com/shorts/lUuYXvtRW9M)
