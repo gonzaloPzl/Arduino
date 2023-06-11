@@ -6,13 +6,13 @@
 ## Videos del funcionamiento
 
 #### Prueba de energia
-[![Funcionamiento general](https://i9.ytimg.com/vi_webp/s7uqO6EEBAY/mq2.webp?sqp=CMDg2KMG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC8AKKAgwIABABGGUgZShlMA8%3D&rs=AOn4CLBgvg7F-ql9e2XJHFBT4np2MJNooA&retry=3)](https://youtu.be/s7uqO6EEBAY )
+[![Funcionamiento general](https://i9.ytimg.com/vi/s7uqO6EEBAY/mqdefault.jpg?sqp=CPTfmKQG-oaymwEmCMACELQB8quKqQMa8AEB-AH-BIAC8AKKAgwIABABGGUgZShlMA8=&rs=AOn4CLB-dUViwRom0-SpC9L1MxzesiXptw)](https://youtu.be/s7uqO6EEBAY)
 
 #### Prueba de energia
-[![Prueba de energia](https://i9.ytimg.com/vi_webp/lUuYXvtRW9M/mq2.webp?sqp=CMDg2KMG-oaymwEoCMACELQB8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYZSBLKD0wDw==&rs=AOn4CLC7gGx8If68-FQRKDPEvqcgy_VW8w)](https://www.youtube.com/shorts/lUuYXvtRW9M)
+[![Prueba de energia](https://i9.ytimg.com/vi/lUuYXvtRW9M/mqdefault.jpg?sqp=CPTfmKQG-oaymwEoCMACELQB8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYZSBLKD0wDw==&rs=AOn4CLCu9Dwv0DHhE_dOUwIwwcexvCl0qQ)](https://youtube.com/shorts/lUuYXvtRW9M)
 
 #### Prueba de motores
-[![Prueba de motores](https://i9.ytimg.com/vi_webp/Max0B-2PMMs/mq2.webp?sqp=CMDg2KMG-oaymwEoCMACELQB8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYYSBhKGEwDw==&rs=AOn4CLBJB_zxI-vWZ1DZyuggQ60pdG0XMA)](https://www.youtube.com/shorts/Max0B-2PMMs)
+[![Prueba de motores](https://i9.ytimg.com/vi/Max0B-2PMMs/mqdefault.jpg?sqp=CPTfmKQG-oaymwEoCMACELQB8quKqQMcGADwAQH4AYwCgALgA4oCDAgAEAEYYSBhKGEwDw==&rs=AOn4CLBKWBRU6PpaSnCuMp75W1mJAQTFLA)](https://youtube.com/shorts/Max0B-2PMMs)
 
 ## Estructura de ramas
 Estructura de las diferentes ramas que componen el proyecto
@@ -29,6 +29,10 @@ Para utilizar el entorno de desarrollo de la aplicación se requiere de los sigu
 - Arduino compatible con el IDE
 - Placa Bluetooth:X M-15B SPP
 - [Arduino IDE](https://www.arduino.cc/en/software)
+
+### Requerimientos de hardware
+- Protoboard Breadboard 830
+- 
 
 Se debe ejecutar 
 
