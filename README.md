@@ -32,7 +32,10 @@ Para utilizar el entorno de desarrollo de la aplicación se requiere de los sigu
 
 ### Requerimientos de hardware
 - Protoboard Breadboard 830
-- 
+- DRIVER L293B
+- Regulador L7805CV V6
+- 2 motoreguladores
+- Modulo bluetooth XM-15
 
 Se debe ejecutar 
 
